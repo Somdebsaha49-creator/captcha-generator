@@ -17,3 +17,9 @@ A simple Python CAPTCHA generator that creates random 6-character alphanumeric C
 2. Clone or download this repository.  
 3. Run the script:
 
+---
+
+
+## 📌 Author
+
+👤 Developed by [Somdeb Saha] – exploring the world of Python and building cool projects.
